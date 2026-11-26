@@ -2,5 +2,5 @@
 
 | No. | Topic | Source Code |
 |---|---|---|
-| 01 | Final Variable | [Bike.java](./Bike.java) |
-| 02 | Final Method |[Bike.java](./Bike2.java) | 
+| 01 | Final Variable | [Bike.java](./Lectuer_17/Bike.java) |
+| 02 | Final Method | [Bike2.java](./Lectuer_17/Bike2.java) |
