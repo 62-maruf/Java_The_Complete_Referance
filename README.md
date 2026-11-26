@@ -1,8 +1,6 @@
-# Java Programming
+# Java Programming – Lecture 17
 
-| No. | Topic | File Name |
+| No. | Topic | Source Code |
 |---|---|---|
-| 01 | Final Variable | Bike.java |
-| 02 | Final Method | Bike2.java |
-| 03 | Final Class | Bike3.java |
-| 04 | Inheritance | Inheritance.java |
+| 01 | Final Variable | [Bike.java](./Bike.java) |
+| 02 | Final Method |[Bike.java](./Bike2.java) |
